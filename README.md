@@ -1,5 +1,3 @@
-# task5
-
 contacts = {}
 
 def add_contact():
